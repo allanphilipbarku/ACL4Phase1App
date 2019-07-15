@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ACL 4 Phase 1</string>
+    <string name="home_title">Welcome to ACL 4.0</string>
+    <string name="about_acl">About ACL</string>
+    <string name="my_profile">My Profile</string>
+    <string name="img_alt">Allan Philip Barku</string>
+    <string name="my_name">Allan Philip Barku</string>
+    <string name="title_activity_my_profile">My Profile</string>
+    <string name="title_activity_about_acl4">About ACL</string>
+    <string name="notification_error_ssl_cert_invalid">ssl</string>
+    <string name="track">Track:  Android</string>
+    <string name="country">Country:  Ghana</string>
+    <string name="email">Email: allanbarku@gmail.com</string>
+    <string name="phone_number">Phone Number: +223 0245989134</string>
+    <string name="slack">Slack Username: @Allan Philip Barku</string>
+</resources>
